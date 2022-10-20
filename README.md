@@ -25,9 +25,13 @@ Click on the draw deck to display the first spawn.
   - ie: walker, runner, etc images.
 - Reset button to clear main deck
   - set up and reading but not currently clearing or setting data back to baseline.
+- Need to set up for smaller screens
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.
   - ie: add/remove abom or necro cards to scale difficulty. 
 - % change of have various threats show up posted below the pull deck.
 - Include all other types of sets available.
+- Note which position the spawns are coming in at
+  - ie: which spawn location indicated by a number.
+- React App should detail current sessions to indicate spawn locations and what is recommended for play.
