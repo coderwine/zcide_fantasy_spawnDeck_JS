@@ -1,0 +1,361 @@
+ID,Blue,Blue #,Threat,Yellow,Yellow #,Threat,Amber,Amber #,Threat,Red,Red #,Threat,Average Threat,Type,Included/Excluded?,Card Included With
+1,Nothing,1,0,Runner,2,4,Walker,5,5,Fatty,2,4,3.25,Standard Zombies,Excluded,Core Box Set
+2,Nothing,1,0,Fatty,2,4,Walker,5,5,Walker,5,5,3.5,Standard Zombies,Excluded,Core Box Set
+3,Nothing,1,0,Walker,4,4,Runner,3,6,Runner,2,4,3.5,Standard Zombies,Excluded,Core Box Set
+4,Walker,1,1,Runner,1,2,Fatty,3,6,Fatty,3,6,3.75,Standard Zombies,Excluded,Core Box Set
+5,Walker,1,1,Fatty,1,2,Walker,4,4,Walker,5,5,3,Standard Zombies,Excluded,Core Box Set
+6,Walker,1,1,Walker,2,2,Runner,1,2,Runner,3,6,2.75,Standard Zombies,Excluded,Core Box Set
+7,Walker,2,2,Runner,1,2,Fatty,1,2,Fatty,3,6,3,Standard Zombies,Excluded,Core Box Set
+8,Walker,3,3,Fatty,1,2,Walker,4,4,Walker,6,6,3.75,Standard Zombies,Excluded,Core Box Set
+9,Fatty,1,2,Walker,2,2,Runner,2,4,Runner,3,6,3.5,Standard Zombies,Excluded,Core Box Set
+10,Fatty,1,2,Walker,2,2,Fatty,2,4,Walker,5,5,3.25,Standard Zombies,Excluded,Core Box Set
+11,Runner,1,2,Walker,3,3,Walker,3,3,Walker,6,6,3.5,Standard Zombies,Excluded,Core Box Set
+12,Runner,1,2,Walker,3,3,Walker,3,3,Walker,5,5,3.25,Standard Zombies,Excluded,Core Box Set
+13,Abomination,1,10,Runner,1,2,Walker,5,5,Fatty,2,4,5.25,Standard Zombies,Excluded,Core Box Set
+14,Walker,2,2,Abomination,1,10,Fatty,1,2,Runner,3,6,5,Standard Zombies,Excluded,Core Box Set
+15,Walker,2,2,Fatty,1,2,Abomination,1,10,Walker,6,6,5,Standard Zombies,Excluded,Core Box Set
+16,Walker,1,1,Walker,3,3,Runner,2,4,Abomination,1,10,4.5,Standard Zombies,Excluded,Core Box Set
+17,Walker,1,1,Runner,2,4,Fatty,3,6,Walker,6,6,4.25,Standard Zombies,Excluded,Core Box Set
+18,Runner,1,2,Fatty,1,2,Walker,4,4,Walker,5,5,3.25,Standard Zombies,Excluded,Core Box Set
+19,Walker,1,1,Walker,4,4,Runner,2,4,Fatty,3,6,3.75,Standard Zombies,Excluded,Core Box Set
+20,Fatty,1,2,Runner,1,2,Walker,6,6,Runner,2,4,3.5,Standard Zombies,Excluded,Core Box Set
+21,Walker,1,1,Fatty,2,4,Runner,2,4,Walker,8,8,4.25,Standard Zombies,Excluded,Core Box Set
+22,Fatty,1,2,Walker,2,2,Fatty,2,4,Walker,7,7,3.75,Standard Zombies,Excluded,Core Box Set
+23,Runner,1,2,Walker,4,4,Walker,4,4,Fatty,3,6,4,Standard Zombies,Excluded,Core Box Set
+24,Fatty,1,2,Walker,3,3,Walker,5,5,Runner,3,6,4,Standard Zombies,Excluded,Core Box Set
+25,Abomination,1,10,Runner,1,2,Walker,5,5,Fatty,2,4,5.25,Standard Zombies,Excluded,Core Box Set
+26,Walker,2,2,Abomination,1,10,Fatty,1,2,Runner,3,6,5,Standard Zombies,Excluded,Core Box Set
+27,Walker,2,2,Fatty,1,2,Abomination,1,10,Walker,6,6,5,Standard Zombies,Excluded,Core Box Set
+28,Walker,1,1,Walker,3,3,Runner,2,4,Abomination,1,10,4.5,Standard Zombies,Excluded,Core Box Set
+29,Walker,1,1,Runner,2,4,Fatty,3,6,Walker,6,6,4.25,Standard Zombies,Excluded,Core Box Set
+30,Runner,1,2,Fatty,1,2,Walker,4,4,Walker,5,5,3.25,Standard Zombies,Excluded,Core Box Set
+31,Walker,1,1,Walker,4,4,Runner,2,4,Fatty,3,6,3.75,Standard Zombies,Excluded,Core Box Set
+32,Fatty,1,2,Runner,1,2,Walker,6,6,Runner,2,4,3.5,Standard Zombies,Excluded,Core Box Set
+33,Walker,1,1,Fatty,2,4,Runner,2,4,Walker,8,8,4.25,Standard Zombies,Excluded,Core Box Set
+34,Walker,1,1,Fatty,2,4,Walker,2,2,Fatty,7,14,5.25,Standard Zombies,Excluded,Core Box Set
+35,Runner,1,2,Walker,4,4,Walker,4,4,Fatty,3,6,4,Standard Zombies,Excluded,Core Box Set
+36,Fatty,1,2,Walker,3,3,Walker,5,5,Runner,3,6,4,Standard Zombies,Excluded,Core Box Set
+37,Walker Activation,1,2,Walker Activation,1,2,Walker Activation,1,2,Walker Activation,1,2,2,Standard Zombies,Excluded,Core Box Set
+38,Walker Activation,1,2,Walker Activation,1,2,Walker Activation,1,2,Walker Activation,1,2,2,Standard Zombies,Excluded,Core Box Set
+39,Fatty Activation,1,4,Fatty Activation,1,4,Fatty Activation,1,4,Fatty Activation,1,4,4,Standard Zombies,Excluded,Core Box Set
+40,Runner Activation,1,4,Runner Activation,1,4,Runner Activation,1,4,Runner Activation,1,4,4,Standard Zombies,Excluded,Core Box Set
+41,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+42,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+43,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+44,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+45,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+46,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,Necromancer,1,5,5,Necromancer,Excluded,Core Box Set
+47,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+48,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+49,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+50,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+51,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+52,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+53,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+54,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,Double Spawn,1,5,5,Double Spawn,Excluded,Core Box Set
+55,Wolvz,1,5,Wolvz,2,10,Wolvz,3,15,Wolvz,4,20,12.5,Zombie Wolfz,Excluded,Wulfsburg
+56,Wolvz,2,10,Wolvz,3,15,Wolvz,4,20,Wolvz,5,25,17.5,Zombie Wolfz,Excluded,Wulfsburg
+57,Wolvz,3,15,Wolvz,4,20,Wolvz,5,25,Wolvz,6,30,22.5,Zombie Wolfz,Excluded,Wulfsburg
+58,Wolvz,1,5,Wolvz,2,10,Wolvz,3,15,Wolvz,4,20,12.5,Zombie Wolfz,Excluded,Wulfsburg
+59,Wolvz,2,10,Wolvz,3,15,Wolvz,4,20,Wolvz,5,25,17.5,Zombie Wolfz,Excluded,Wulfsburg
+60,Wolvz,3,15,Wolvz,4,20,Wolvz,5,25,Wolvz,6,30,22.5,Zombie Wolfz,Excluded,Wulfsburg
+61,Nothing,1,0,Wolfbomination,1,18,Wolfbomination,1,18,Wolfbomination,1,18,13.5,Abomination,Excluded,Wulfsburg
+62,Nothing,1,0,Wolfbomination,1,18,Wolfbomination,1,18,Wolfbomination,1,18,13.5,Abomination,Excluded,Wulfsburg
+63,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-1
+64,NPC,1,1,NPC,3,3,NPC,4,4,NPC,4,4,3,NPC,Excluded,NPC-1
+65,NPC,1,1,NPC,2,2,NPC,2,2,NPC,5,5,2.5,NPC,Excluded,NPC-1
+66,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-1
+67,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-1
+68,NPC,1,1,NPC,1,1,NPC,6,6,NPC,7,7,3.75,NPC,Excluded,NPC-1
+69,NPC,1,1,NPC,2,2,NPC,2,2,NPC,8,8,3.25,NPC,Excluded,NPC-1
+70,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-1
+71,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-1
+72,NPC,1,1,NPC,1,1,NPC,6,6,NPC,7,7,3.75,NPC,Excluded,NPC-1
+73,NPC,1,1,NPC,2,2,NPC,2,2,NPC,8,8,3.25,NPC,Excluded,NPC-1
+74,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-1
+75,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-2
+76,NPC,1,1,NPC,1,1,NPC,6,6,NPC,7,7,3.75,NPC,Excluded,NPC-2
+77,NPC,1,1,NPC,2,2,NPC,2,2,NPC,8,8,3.25,NPC,Excluded,NPC-2
+78,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-2
+79,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-2
+80,NPC,1,1,NPC,1,1,NPC,6,6,NPC,7,7,3.75,NPC,Excluded,NPC-2
+81,NPC,1,1,NPC,2,2,NPC,2,2,NPC,8,8,3.25,NPC,Excluded,NPC-2
+82,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-2
+83,Nothing,1,0,NPC,4,4,NPC,4,4,NPC,5,5,3.25,NPC,Excluded,NPC-2
+84,NPC,1,1,NPC,1,1,NPC,6,6,NPC,7,7,3.75,NPC,Excluded,NPC-2
+85,NPC,1,1,NPC,2,2,NPC,2,2,NPC,8,8,3.25,NPC,Excluded,NPC-2
+86,NPC,2,2,NPC,3,3,NPC,4,4,NPC,4,4,3.25,NPC,Excluded,NPC-2
+87,Nothing,1,0,Ablobination,1,22.5,Ablobination,1,22.5,Ablobination,1,22.5,16.875,Abomination,Excluded,Zombie Bosses Abomination Pack
+88,Nothing,1,0,Ablobination,1,22.5,Ablobination,1,22.5,Ablobination,1,22.5,16.875,Abomination,Excluded,Zombie Bosses Abomination Pack
+89,Nothing,1,0,Ablobination,1,22.5,Ablobination,1,22.5,Ablobination,1,22.5,16.875,Abomination,Excluded,Zombie Bosses Abomination Pack
+90,Nothing,1,0,Ablobination,1,22.5,Ablobination,1,22.5,Ablobination,1,22.5,16.875,Abomination,Excluded,Zombie Bosses Abomination Pack
+91,Nothing,1,0,Abominatroll,1,30,Abominatroll,1,30,Abominatroll,1,30,22.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+92,Nothing,1,0,Abominatroll,1,30,Abominatroll,1,30,Abominatroll,1,30,22.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+93,Nothing,1,0,Abominatroll,1,30,Abominatroll,1,30,Abominatroll,1,30,22.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+94,Nothing,1,0,Abominatroll,1,30,Abominatroll,1,30,Abominatroll,1,30,22.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+95,Nothing,1,0,Abominotaur,1,22,Abominotaur,1,22,Abominotaur,1,22,16.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+96,Nothing,1,0,Abominotaur,1,22,Abominotaur,1,22,Abominotaur,1,22,16.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+97,Nothing,1,0,Abominotaur,1,22,Abominotaur,1,22,Abominotaur,1,22,16.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+98,Nothing,1,0,Abominotaur,1,22,Abominotaur,1,22,Abominotaur,1,22,16.5,Abomination,Excluded,Zombie Bosses Abomination Pack
+99,Dead Eye Walkers,1,7,Dead Eye Walkers,2,14,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,17.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+100,Dead Eye Walkers,2,14,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,Dead Eye Walkers,5,35,24.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+101,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,Dead Eye Walkers,5,35,Dead Eye Walkers,6,42,31.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+102,Dead Eye Walkers,1,7,Dead Eye Walkers,2,14,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,17.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+103,Dead Eye Walkers,2,14,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,Dead Eye Walkers,5,35,24.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+104,Dead Eye Walkers,3,21,Dead Eye Walkers,4,28,Dead Eye Walkers,5,35,Dead Eye Walkers,6,42,31.5,Dead Eye Walkers,Excluded,Dead Eye Walkers
+105,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+106,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+107,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+108,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+109,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+110,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+111,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+112,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+113,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+114,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+115,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+116,Murder Crows,2,10,Murder Crows,3,15,Murder Crows,4,20,Murder Crows,5,25,17.5,Murder Crows,Excluded,Murder Crows
+117,Nothing,1,0,Abominalpha,1,24,Abominalpha,1,24,Abominalpha,1,24,18,Abominalpha,Excluded,Kickstarter Exclusive
+118,Nothing,1,0,Abominalpha,1,24,Abominalpha,1,24,Abominalpha,1,24,18,Abominalpha,Excluded,Kickstarter Exclusive
+119,Nothing,1,0,Abominalpha,1,24,Abominalpha,1,24,Abominalpha,1,24,18,Abominalpha,Excluded,Kickstarter Exclusive
+120,Nothing,1,0,Abominalpha,1,24,Abominalpha,1,24,Abominalpha,1,24,18,Abominalpha,Excluded,Kickstarter Exclusive
+121,Nothing,1,0,Abominarat,1,14,Abominarat,1,14,Abominarat,1,14,10.5,Abominarat,Excluded,Kickstarter Exclusive
+122,Nothing,1,0,Abominarat,1,14,Abominarat,1,14,Abominarat,1,14,10.5,Abominarat,Excluded,Kickstarter Exclusive
+123,Nothing,1,0,Abominarat,1,14,Abominarat,1,14,Abominarat,1,14,10.5,Abominarat,Excluded,Kickstarter Exclusive
+124,Nothing,1,0,Abominarat,1,14,Abominarat,1,14,Abominarat,1,14,10.5,Abominarat,Excluded,Kickstarter Exclusive
+125,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+126,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+127,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+128,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+129,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+130,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,To-Me-Ku-Pa,1,9,9,Necromancer,Excluded,Crtichlow GuestBox
+131,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+132,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+133,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+134,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+135,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+136,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,The Blackheart,1,6,6,Necromancer,Excluded,S Kopinski GuestBox
+137,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+138,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+139,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+140,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+141,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+142,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,Ostokar,1,8,8,Necromancer,Excluded,Kickstarter Exclusive
+143,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+144,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+145,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+146,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+147,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+148,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,Evil Troy,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+149,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+150,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+151,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+152,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+153,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+154,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,Queen Medea,1,9,9,Necromancer,Excluded,Kickstarter Exclusive
+155,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+156,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+157,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+158,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+159,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+160,Grin,1,6,Grin,1,6,Grin,1,6,Grin,1,6,6,Necromancer,Excluded,Kickstarter Exclusive
+161,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+162,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+163,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+164,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+165,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+166,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,Erik Summoner,1,7,7,Necromancer,Excluded,Promotional
+167,Nothing,1,0,Orc Runner,5,15,Orc Walker,6,12,Orc Fatty,3,18,11.25,Orc Horde,Included,Green Horde Core
+168,Nothing,1,0,Orc Fatty,3,18,Orc Walker,6,12,Orc Walker,6,12,10.5,Orc Horde,Included,Green Horde Core
+169,Nothing,1,0,Orc Walker,5,10,Orc Runner,7,21,Orc Runner,7,21,13,Orc Horde,Included,Green Horde Core
+170,Orc Walker,2,4,Orc Runner,4,12,Orc Fatty,4,24,Orc Fatty,4,24,16,Orc Horde,Included,Green Horde Core
+171,Orc Walker,2,4,Orc Fatty,1,6,Orc Walker,5,10,Orc Walker,6,12,8,Orc Horde,Included,Green Horde Core
+172,Orc Walker,2,4,Orc Walker,3,6,Orc Runner,5,15,Orc Runner,8,24,12.25,Orc Horde,Included,Green Horde Core
+173,Orc Walker,3,6,Orc Runner,4,12,Orc Fatty,2,12,Orc Fatty,4,24,13.5,Orc Horde,Included,Green Horde Core
+174,Orc Walker,4,8,Orc Fatty,2,12,Orc Walker,5,10,Orc Walker,7,14,11,Orc Horde,Included,Green Horde Core
+175,Orc Fatty,2,12,Orc Walker,3,6,Orc Runner,6,18,Orc Runner,8,24,15,Orc Horde,Included,Green Horde Core
+176,Orc Fatty,2,12,Orc Walker,3,6,Orc Fatty,3,18,Orc Walker,6,12,12,Orc Horde,Included,Green Horde Core
+177,Orc Runner,3,9,Orc Walker,4,8,Orc Walker,4,8,Orc Walker,7,14,9.75,Orc Horde,Included,Green Horde Core
+178,Orc Runner,3,9,Orc Walker,4,8,Orc Walker,4,8,Orc Walker,6,12,9.25,Orc Horde,Included,Green Horde Core
+179,Orc Abomination,1,18,Orc Runner,4,12,Orc Walker,6,12,Orc Fatty,3,18,15,Orc Horde,Included,Green Horde Core
+180,Orc Walker,3,6,Orc Abomination,1,18,Orc Fatty,2,12,Orc Runner,8,24,15,Orc Horde,Included,Green Horde Core
+181,Orc Walker,3,6,Orc Fatty,2,12,Orc Abomination,1,18,Orc Walker,7,14,12.5,Orc Horde,Included,Green Horde Core
+182,Orc Walker,2,4,Orc Walker,4,8,Orc Runner,6,18,Orc Abomination,1,18,12,Orc Horde,Included,Green Horde Core
+183,Orc Walker,2,4,Orc Runner,5,15,Orc Fatty,4,24,Orc Walker,7,14,14.25,Orc Horde,Included,Green Horde Core
+184,Orc Runner,3,9,Orc Fatty,2,12,Orc Walker,5,10,Orc Walker,6,12,10.75,Orc Horde,Included,Green Horde Core
+185,Orc Walker,2,4,Orc Walker,5,10,Orc Runner,6,18,Orc Fatty,4,24,14,Orc Horde,Included,Green Horde Core
+186,Orc Fatty,2,12,Orc Runner,4,12,Orc Walker,7,14,Orc Runner,7,21,14.75,Orc Horde,Included,Green Horde Core
+187,Orc Walker,2,4,Orc Fatty,3,18,Orc Runner,6,18,Orc Walker,9,18,14.5,Orc Horde,Included,Green Horde Core
+188,Orc Fatty,2,12,Orc Walker,3,6,Orc Fatty,3,18,Orc Walker,8,16,13,Orc Horde,Included,Green Horde Core
+189,Orc Runner,3,9,Orc Walker,5,10,Orc Walker,5,10,Orc Fatty,4,24,13.25,Orc Horde,Included,Green Horde Core
+190,Orc Fatty,2,12,Orc Walker,4,8,Orc Walker,6,12,Orc Runner,8,24,14,Orc Horde,Included,Green Horde Core
+191,Orc Abomination,1,18,Orc Runner,4,12,Orc Walker,6,12,Orc Fatty,3,18,15,Orc Horde,Included,Green Horde Core
+192,Orc Walker,3,6,Orc Abomination,1,18,Orc Fatty,2,12,Orc Runner,8,24,15,Orc Horde,Included,Green Horde Core
+193,Orc Walker,3,6,Orc Fatty,2,12,Orc Abomination,1,18,Orc Walker,7,14,12.5,Orc Horde,Included,Green Horde Core
+194,Orc Walker,2,4,Orc Walker,4,8,Orc Runner,6,18,Orc Abomination,1,18,12,Orc Horde,Included,Green Horde Core
+195,Orc Walker,2,4,Orc Runner,5,15,Orc Fatty,4,24,Orc Walker,7,14,14.25,Orc Horde,Included,Green Horde Core
+196,Orc Runner,3,9,Orc Fatty,2,12,Orc Walker,5,10,Orc Walker,6,12,10.75,Orc Horde,Included,Green Horde Core
+197,Orc Walker,2,4,Orc Walker,5,10,Orc Runner,6,18,Orc Fatty,4,24,14,Orc Horde,Included,Green Horde Core
+198,Orc Fatty,2,12,Orc Runner,4,12,Orc Walker,7,14,Orc Runner,7,21,14.75,Orc Horde,Included,Green Horde Core
+199,Orc Walker,2,4,Orc Fatty,3,18,Orc Runner,6,18,Orc Walker,9,18,14.5,Orc Horde,Included,Green Horde Core
+200,Orc Fatty,2,12,Orc Walker,3,6,Orc Fatty,3,18,Orc Walker,8,16,13,Orc Horde,Included,Green Horde Core
+201,Orc Runner,3,9,Orc Walker,5,10,Orc Walker,5,10,Orc Fatty,4,24,13.25,Orc Horde,Included,Green Horde Core
+202,Orc Fatty,2,12,Orc Walker,4,8,Orc Walker,6,12,Orc Runner,8,24,14,Orc Horde,Included,Green Horde Core
+203,Nothing,1,0,Orc Walker Activation,1,2,Orc Walker Activation,1,2,Orc Walker Activation,1,2,1.5,Orc Horde,Included,Green Horde Core
+204,Nothing,1,0,Orc Walker Activation,1,2,Orc Walker Activation,1,2,Orc Walker Activation,1,2,1.5,Orc Horde,Included,Green Horde Core
+205,Nothing,1,0,Orc Fatty Activation,1,6,Orc Fatty Activation,1,6,Orc Fatty Activation,1,6,4.5,Orc Horde,Included,Green Horde Core
+206,Nothing,1,0,Orc Runner Activation,1,2,Orc Runner Activation,1,2,Orc Runner Activation,1,2,1.5,Orc Horde,Included,Green Horde Core
+207,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+208,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+209,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+210,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+211,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+212,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,Orc Necromancer,1,9,9,Necromancer,Included,Green Horde Core
+213,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+214,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+215,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+216,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+217,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+218,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+219,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Included,Green Horde Core
+220,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,8,Enter the Horde,Included,Green Horde Core
+221,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+222,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+223,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+224,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+225,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+226,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+227,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+228,Nothing,1,0,Necromantic Dragon,1,28,Necromantic Dragon,1,28,Necromantic Dragon,1,28,21,Dragon,Excluded,No Rest for the Wicked
+229,Spectral Walker,1,3,Spectral Walker,1,3,Spectral Walker,5,15,Spectral Walker,2,6,6.75,Spectral Zombie,Excluded,No Rest for the Wicked
+230,Spectral Walker,2,6,Spectral Walker,1,3,Spectral Walker,1,3,Spectral Walker,3,9,5.25,Spectral Zombie,Excluded,No Rest for the Wicked
+231,Spectral Walker,2,6,Spectral Walker,1,3,Spectral Walker,1,3,Spectral Walker,6,18,7.5,Spectral Zombie,Excluded,No Rest for the Wicked
+232,Spectral Walker,1,3,Spectral Walker,3,9,Spectral Walker,2,6,Spectral Walker,1,3,5.25,Spectral Zombie,Excluded,No Rest for the Wicked
+233,Spectral Walker,1,3,Spectral Walker,2,6,Spectral Walker,3,9,Spectral Walker,6,18,9,Spectral Zombie,Excluded,No Rest for the Wicked
+234,Spectral Walker,1,3,Spectral Walker,1,3,Spectral Walker,4,12,Spectral Walker,5,15,8.25,Spectral Zombie,Excluded,No Rest for the Wicked
+235,Spectral Walker,1,3,Spectral Walker,4,12,Spectral Walker,2,6,Spectral Walker,3,9,7.5,Spectral Zombie,Excluded,No Rest for the Wicked
+236,Spectral Walker,1,3,Spectral Walker,1,3,Spectral Walker,6,18,Spectral Walker,2,6,7.5,Spectral Zombie,Excluded,No Rest for the Wicked
+237,Spectral Walker,1,3,Spectral Walker,2,6,Spectral Walker,2,6,Spectral Walker,8,24,9.75,Spectral Zombie,Excluded,No Rest for the Wicked
+238,Spectral Walker,1,3,Spectral Walker,2,6,Spectral Walker,2,6,Spectral Walker,7,21,9,Spectral Zombie,Excluded,No Rest for the Wicked
+239,Spectral Walker,1,3,Spectral Walker,4,12,Spectral Walker,4,12,Spectral Walker,3,9,9,Spectral Zombie,Excluded,No Rest for the Wicked
+240,Spectral Walker,1,3,Spectral Walker,3,9,Spectral Walker,5,15,Spectral Walker,3,9,9,Spectral Zombie,Excluded,No Rest for the Wicked
+241,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+242,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+243,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+244,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+245,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+246,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+247,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+248,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+249,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+250,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+251,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+252,Swarm of Ratz,2,15,Swarm of Ratz,3,22.5,Swarm of Ratz,4,30,Swarm of Ratz,5,37.5,26.25,Zombie Ratz,Excluded,No Rest for the Wicked
+253,Tainted Abomination,1,15,Tainted Walker,2,8,Tainted Walker,6,24,Tainted Walker,2,8,13.75,Abomination,Excluded,Friends and Foes
+254,Tainted Walker,3,12,Tainted Abomination,1,15,Tainted Walker,2,8,Tainted Walker,4,16,12.75,Abomination,Excluded,Friends and Foes
+255,Tainted Walker,3,12,Tainted Walker,2,8,Tainted Abomination,1,15,Tainted Walker,7,28,15.75,Abomination,Excluded,Friends and Foes
+256,Tainted Walker,2,8,Tainted Walker,4,16,Tainted Walker,3,12,Tainted Abomination,1,15,12.75,Abomination,Excluded,Friends and Foes
+257,Tainted Walker,2,8,Tainted Walker,3,12,Tainted Walker,4,16,Tainted Walker,7,28,16,Tainted Orc,Excluded,Friends and Foes
+258,Tainted Walker,2,8,Tainted Walker,2,8,Tainted Walker,5,20,Tainted Walker,6,24,15,Tainted Orc,Excluded,Friends and Foes
+259,Tainted Walker,2,8,Tainted Walker,5,20,Tainted Walker,3,12,Tainted Walker,4,16,14,Tainted Orc,Excluded,Friends and Foes
+260,Tainted Walker,2,8,Tainted Walker,2,8,Tainted Walker,7,28,Tainted Walker,3,12,14,Tainted Orc,Excluded,Friends and Foes
+261,Tainted Walker,2,8,Tainted Walker,3,12,Tainted Walker,3,12,Tainted Walker,9,36,17,Tainted Orc,Excluded,Friends and Foes
+262,Tainted Walker,2,8,Tainted Walker,3,12,Tainted Walker,3,12,Tainted Walker,8,32,16,Tainted Orc,Excluded,Friends and Foes
+263,Tainted Walker,2,8,Tainted Walker,5,20,Tainted Walker,5,20,Tainted Walker,4,16,16,Tainted Orc,Excluded,Friends and Foes
+264,Tainted Walker,2,8,Tainted Walker,4,16,Tainted Walker,6,24,Tainted Walker,4,16,16,Tainted Orc,Excluded,Friends and Foes
+265,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Excluded,Friends and Foes
+266,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,Enter the Horde,1,5,5,Enter the Horde,Excluded,Friends and Foes
+267,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+268,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+269,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+270,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+271,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+272,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,Innsmouth,1,7,7,Necromancer,Excluded,S Murry GuestBox
+273,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+274,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+275,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+276,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+277,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+278,Faolan,1,8,Faolan,1,8,Faolan,1,8,Faolan,1,8,8,Necromancer,Excluded,P Bonner GuestBox
+279,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+280,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+281,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+282,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+283,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+284,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,Lord of Skulls,1,12,12,Necromancer,Excluded,A Smith GuestBox
+285,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+286,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+287,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+288,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+289,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+290,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+291,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+292,Nothing,1,0,Feral Dragon,1,24,Feral Dragon,1,24,Feral Dragon,1,24,18,Dragon,Excluded,Kickstarter Exclusive
+293,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+294,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+295,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+296,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+297,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+298,Nothing,1,0,Fatty Burster,1,5,Fatty Burster,1,5,Fatty Burster,1,5,3.75,Fatty Burster,Excluded,Kickstarter Exclusive
+299,Nothing,1,0,Zombie Giant,1,14,Zombie Giant,1,14,Zombie Giant,1,14,10.5,Giant,Excluded,Kickstarter Exclusive
+300,Nothing,1,0,Zombie Giant,1,14,Zombie Giant,1,14,Zombie Giant,1,14,10.5,Giant,Excluded,Kickstarter Exclusive
+301,Nothing,1,0,Zombie Giant,1,14,Zombie Giant,1,14,Zombie Giant,1,14,10.5,Giant,Excluded,Kickstarter Exclusive
+302,Nothing,1,0,Zombie Giant,1,14,Zombie Giant,1,14,Zombie Giant,1,14,10.5,Giant,Excluded,Kickstarter Exclusive
+303,Nothing,1,0,Gorgomination,1,16,Gorgomination,1,16,Gorgomination,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+304,Nothing,1,0,Gorgomination,1,16,Gorgomination,1,16,Gorgomination,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+305,Nothing,1,0,Gorgomination,1,16,Gorgomination,1,16,Gorgomination,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+306,Nothing,1,0,Gorgomination,1,16,Gorgomination,1,16,Gorgomination,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+307,Nothing,1,0,Horde Brother,1,26,Horde Brother,1,26,Horde Brother,1,26,19.5,Abomination,Excluded,Kickstarter Exclusive
+308,Nothing,1,0,Horde Brother,1,26,Horde Brother,1,26,Horde Brother,1,26,19.5,Abomination,Excluded,Kickstarter Exclusive
+309,Nothing,1,0,Horde Brother,1,26,Horde Brother,1,26,Horde Brother,1,26,19.5,Abomination,Excluded,Kickstarter Exclusive
+310,Nothing,1,0,Horde Brother,1,26,Horde Brother,1,26,Horde Brother,1,26,19.5,Abomination,Excluded,Kickstarter Exclusive
+311,Nothing,1,0,Siege Breaker,1,16,Siege Breaker,1,16,Siege Breaker,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+312,Nothing,1,0,Siege Breaker,1,16,Siege Breaker,1,16,Siege Breaker,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+313,Nothing,1,0,Siege Breaker,1,16,Siege Breaker,1,16,Siege Breaker,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+314,Nothing,1,0,Siege Breaker,1,16,Siege Breaker,1,16,Siege Breaker,1,16,12,Abomination,Excluded,Kickstarter Exclusive
+315,Nothing,1,0,Swamp Lurker,1,18,Swamp Lurker,1,18,Swamp Lurker,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+316,Nothing,1,0,Swamp Lurker,1,18,Swamp Lurker,1,18,Swamp Lurker,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+317,Nothing,1,0,Swamp Lurker,1,18,Swamp Lurker,1,18,Swamp Lurker,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+318,Nothing,1,0,Swamp Lurker,1,18,Swamp Lurker,1,18,Swamp Lurker,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+319,Nothing,1,0,Abominabunny,1,37.5,Abominabunny,1,37.5,Abominabunny,1,37.5,28.125,Abomination,Excluded,Kickstarter Exclusive
+320,Nothing,1,0,Abominabunny,1,37.5,Abominabunny,1,37.5,Abominabunny,1,37.5,28.125,Abomination,Excluded,Kickstarter Exclusive
+321,Nothing,1,0,Abominabunny,1,37.5,Abominabunny,1,37.5,Abominabunny,1,37.5,28.125,Abomination,Excluded,Kickstarter Exclusive
+322,Nothing,1,0,Abominabunny,1,37.5,Abominabunny,1,37.5,Abominabunny,1,37.5,28.125,Abomination,Excluded,Kickstarter Exclusive
+323,Nothing,1,0,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,10.5,Abomination,Excluded,Kickstarter Exclusive
+324,Nothing,1,0,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,10.5,Abomination,Excluded,Kickstarter Exclusive
+325,Nothing,1,0,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,10.5,Abomination,Excluded,Kickstarter Exclusive
+326,Nothing,1,0,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,Magenta Covfefe of Aargh,1,14,10.5,Abomination,Excluded,Kickstarter Exclusive
+327,Nothing,1,0,Vault Warden,1,10,Vault Warden,1,10,Vault Warden,1,10,7.5,Abomination,Excluded,Kickstarter Exclusive
+328,Nothing,1,0,Vault Warden,1,10,Vault Warden,1,10,Vault Warden,1,10,7.5,Abomination,Excluded,Kickstarter Exclusive
+329,Nothing,1,0,Vault Warden,1,10,Vault Warden,1,10,Vault Warden,1,10,7.5,Abomination,Excluded,Kickstarter Exclusive
+330,Nothing,1,0,Vault Warden,1,10,Vault Warden,1,10,Vault Warden,1,10,7.5,Abomination,Excluded,Kickstarter Exclusive
+331,Nothing,1,0,Werezombie,1,18,Werezombie,1,18,Werezombie,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+332,Nothing,1,0,Werezombie,1,18,Werezombie,1,18,Werezombie,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+333,Nothing,1,0,Werezombie,1,18,Werezombie,1,18,Werezombie,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+334,Nothing,1,0,Werezombie,1,18,Werezombie,1,18,Werezombie,1,18,13.5,Abomination,Excluded,Kickstarter Exclusive
+335,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+336,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+337,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+338,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+339,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+340,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,Count Temeraire,1,7,7,Abomination,Excluded,Kickstarter Exclusive
+341,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+342,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+343,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+344,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+345,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+346,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,Queen Severa,1,11,11,Abomination,Excluded,Kickstarter Exclusive
+347,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,18,Abomination,Excluded,Kickstarter Exclusive
+348,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,18,Abomination,Excluded,Kickstarter Exclusive
+349,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,18,Abomination,Excluded,Kickstarter Exclusive
+350,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,Chromatiz,1,18,18,Abomination,Excluded,Kickstarter Exclusive
+351,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+352,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+353,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+354,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+355,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+356,Rat King,1,12,Rat King,2,24,Rat King,4,48,Rat King,6,72,39,Necromancer,Excluded,Rat King and Swamp Troll
+357,Nothing,1,0,Swamp Troll,1,14,Swamp Troll,1,14,Swamp Troll,1,14,10.5,Abomination,Excluded,Rat King and Swamp Troll
+358,Nothing,1,0,Swamp Troll,1,14,Swamp Troll,1,14,Swamp Troll,1,14,10.5,Abomination,Excluded,Rat King and Swamp Troll
+359,Nothing,1,0,Swamp Troll,1,14,Swamp Troll,1,14,Swamp Troll,1,14,10.5,Abomination,Excluded,Rat King and Swamp Troll
+360,Nothing,1,0,Swamp Troll,1,14,Swamp Troll,1,14,Swamp Troll,1,14,10.5,Abomination,Excluded,Rat King and Swamp Troll

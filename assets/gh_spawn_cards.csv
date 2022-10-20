@@ -1,0 +1,55 @@
+id,blue,blue_no,yellow,yellow_no,orange,orange_no,red,red_no,set
+167,Nothing,1,Orc Runner,5,Orc Walker,6,Orc Fatty,3,Green Horde
+168,Nothing,1,Orc Fatty,3,Orc Walker,6,Orc Walker,6,Green Horde
+169,Nothing,1,Orc Walker,5,Orc Runner,7,Orc Runner,7,Green Horde
+170,Orc Walker,2,Orc Runner,4,Orc Fatty,4,Orc Fatty,4,Green Horde
+171,Orc Walker,2,Orc Fatty,1,Orc Walker,5,Orc Walker,6,Green Horde
+172,Orc Walker,2,Orc Walker,3,Orc Runner,5,Orc Runner,8,Green Horde
+173,Orc Walker,3,Orc Runner,4,Orc Fatty,2,Orc Fatty,4,Green Horde
+174,Orc Walker,4,Orc Fatty,2,Orc Walker,5,Orc Walker,7,Green Horde
+175,Orc Fatty,2,Orc Walker,3,Orc Runner,6,Orc Runner,8,Green Horde
+176,Orc Fatty,2,Orc Walker,3,Orc Fatty,3,Orc Walker,6,Green Horde
+177,Orc Runner,3,Orc Walker,4,Orc Walker,4,Orc Walker,7,Green Horde
+178,Orc Runner,3,Orc Walker,4,Orc Walker,4,Orc Walker,6,Green Horde
+179,Orc Abomination,1,Orc Runner,4,Orc Walker,6,Orc Fatty,3,Green Horde
+180,Orc Walker,3,Orc Abomination,1,Orc Fatty,2,Orc Runner,8,Green Horde
+181,Orc Walker,3,Orc Fatty,2,Orc Abomination,1,Orc Walker,7,Green Horde
+182,Orc Walker,2,Orc Walker,4,Orc Runner,6,Orc Abomination,1,Green Horde
+183,Orc Walker,2,Orc Runner,5,Orc Fatty,4,Orc Walker,7,Green Horde
+184,Orc Runner,3,Orc Fatty,2,Orc Walker,5,Orc Walker,6,Green Horde
+185,Orc Walker,2,Orc Walker,5,Orc Runner,6,Orc Fatty,4,Green Horde
+186,Orc Fatty,2,Orc Runner,4,Orc Walker,7,Orc Runner,7,Green Horde
+187,Orc Walker,2,Orc Fatty,3,Orc Runner,6,Orc Walker,9,Green Horde
+188,Orc Fatty,2,Orc Walker,3,Orc Fatty,3,Orc Walker,8,Green Horde
+189,Orc Runner,3,Orc Walker,5,Orc Walker,5,Orc Fatty,4,Green Horde
+190,Orc Fatty,2,Orc Walker,4,Orc Walker,6,Orc Runner,8,Green Horde
+191,Orc Abomination,1,Orc Runner,4,Orc Walker,6,Orc Fatty,3,Green Horde
+192,Orc Walker,3,Orc Abomination,1,Orc Fatty,2,Orc Runner,8,Green Horde
+193,Orc Walker,3,Orc Fatty,2,Orc Abomination,1,Orc Walker,7,Green Horde
+194,Orc Walker,2,Orc Walker,4,Orc Runner,6,Orc Abomination,1,Green Horde
+195,Orc Walker,2,Orc Runner,5,Orc Fatty,4,Orc Walker,7,Green Horde
+196,Orc Runner,3,Orc Fatty,2,Orc Walker,5,Orc Walker,6,Green Horde
+197,Orc Walker,2,Orc Walker,5,Orc Runner,6,Orc Fatty,4,Green Horde
+198,Orc Fatty,2,Orc Runner,4,Orc Walker,7,Orc Runner,7,Green Horde
+199,Orc Walker,2,Orc Fatty,3,Orc Runner,6,Orc Walker,9,Green Horde
+200,Orc Fatty,2,Orc Walker,3,Orc Fatty,3,Orc Walker,8,Green Horde
+201,Orc Runner,3,Orc Walker,5,Orc Walker,5,Orc Fatty,4,Green Horde
+202,Orc Fatty,2,Orc Walker,4,Orc Walker,6,Orc Runner,8,Green Horde
+203,Nothing,1,Orc Walker Activation,1,Orc Walker Activation,1,Orc Walker Activation,1,Green Horde
+204,Nothing,1,Orc Walker Activation,1,Orc Walker Activation,1,Orc Walker Activation,1,Green Horde
+205,Nothing,1,Orc Fatty Activation,1,Orc Fatty Activation,1,Orc Fatty Activation,1,Green Horde
+206,Nothing,1,Orc Runner Activation,1,Orc Runner Activation,1,Orc Runner Activation,1,Green Horde
+207,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+208,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+209,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+210,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+211,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+212,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Orc Necromancer,1,Green Horde
+213,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+214,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+215,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+216,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+217,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+218,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+219,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde
+220,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Enter the Horde,1,Green Horde

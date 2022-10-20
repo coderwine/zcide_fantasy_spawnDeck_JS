@@ -1,0 +1,55 @@
+id,blue,blue_no,yellow,yellow_no,orange,orange_no,red,red_no,set
+1,Nothing,1,Runner,2,Walker,5,Fatty,2,Black Plague
+2,Nothing,1,Fatty,2,Walker,5,Walker,5,Black Plague
+3,Nothing,1,Walker,4,Runner,3,Runner,2,Black Plague
+4,Walker,1,Runner,1,Fatty,3,Fatty,3,Black Plague
+5,Walker,1,Fatty,1,Walker,4,Walker,5,Black Plague
+6,Walker,1,Walker,2,Runner,1,Runner,3,Black Plague
+7,Walker,2,Runner,1,Fatty,1,Fatty,3,Black Plague
+8,Walker,3,Fatty,1,Walker,4,Walker,6,Black Plague
+9,Fatty,1,Walker,2,Runner,2,Runner,3,Black Plague
+10,Fatty,1,Walker,2,Fatty,2,Walker,5,Black Plague
+11,Runner,1,Walker,3,Walker,3,Walker,6,Black Plague
+12,Runner,1,Walker,3,Walker,3,Walker,5,Black Plague
+13,Abomination,1,Runner,1,Walker,5,Fatty,2,Black Plague
+14,Walker,2,Abomination,1,Fatty,1,Runner,3,Black Plague
+15,Walker,2,Fatty,1,Abomination,1,Walker,6,Black Plague
+16,Walker,1,Walker,3,Runner,2,Abomination,1,Black Plague
+17,Walker,1,Runner,2,Fatty,3,Walker,6,Black Plague
+18,Runner,1,Fatty,1,Walker,4,Walker,5,Black Plague
+19,Walker,1,Walker,4,Runner,2,Fatty,3,Black Plague
+20,Fatty,1,Runner,1,Walker,6,Runner,2,Black Plague
+21,Walker,1,Fatty,2,Runner,2,Walker,8,Black Plague
+22,Fatty,1,Walker,2,Fatty,2,Walker,7,Black Plague
+23,Runner,1,Walker,4,Walker,4,Fatty,3,Black Plague
+24,Fatty,1,Walker,3,Walker,5,Runner,3,Black Plague
+25,Abomination,1,Runner,1,Walker,5,Fatty,2,Black Plague
+26,Walker,2,Abomination,1,Fatty,1,Runner,3,Black Plague
+27,Walker,2,Fatty,1,Abomination,1,Walker,6,Black Plague
+28,Walker,1,Walker,3,Runner,2,Abomination,1,Black Plague
+29,Walker,1,Runner,2,Fatty,3,Walker,6,Black Plague
+30,Runner,1,Fatty,1,Walker,4,Walker,5,Black Plague
+31,Walker,1,Walker,4,Runner,2,Fatty,3,Black Plague
+32,Fatty,1,Runner,1,Walker,6,Runner,2,Black Plague
+33,Walker,1,Fatty,2,Runner,2,Walker,8,Black Plague
+34,Walker,1,Fatty,2,Walker,2,Fatty,7,Black Plague
+35,Runner,1,Walker,4,Walker,4,Fatty,3,Black Plague
+36,Fatty,1,Walker,3,Walker,5,Runner,3,Black Plague
+37,Walker Activation,1,Walker Activation,1,Walker Activation,1,Walker Activation,1,Black Plague
+38,Walker Activation,1,Walker Activation,1,Walker Activation,1,Walker Activation,1,Black Plague
+39,Fatty Activation,1,Fatty Activation,1,Fatty Activation,1,Fatty Activation,1,Black Plague
+40,Runner Activation,1,Runner Activation,1,Runner Activation,1,Runner Activation,1,Black Plague
+41,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+42,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+43,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+44,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+45,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+46,Necromancer,1,Necromancer,1,Necromancer,1,Necromancer,1,Black Plague
+47,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+48,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+49,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+50,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+51,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+52,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+53,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
+54,Double Spawn,1,Double Spawn,1,Double Spawn,1,Double Spawn,1,Black Plague
