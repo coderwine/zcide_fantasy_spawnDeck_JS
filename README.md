@@ -35,3 +35,11 @@ Click on the draw deck to display the first spawn.
 - Note which position the spawns are coming in at
   - ie: which spawn location indicated by a number.
 - React App should detail current sessions to indicate spawn locations and what is recommended for play.
+
+# Images needed:
+- BP Double-Spawn
+  - May use the 2 walker images provided.
+- GH Necro
+- GH Abom
+- GH Enter the Horde
+- FF Enter the Horde
