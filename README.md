@@ -3,6 +3,8 @@ Simply select the decks that you are wanting to include in a session. After you 
 
 Click on the draw deck to display the first spawn.
 
+**This is intended to view from a mobile device. Styling is currently incomplete.**
+
 # Current Decks
 - Black Plague
 - Wulfsburg
@@ -22,6 +24,7 @@ Click on the draw deck to display the first spawn.
 - Image background of spawned card w/ associated threat.
   - ie: walker, runner, etc images.
 - Reset button to clear main deck
+  - set up and reading but not currently clearing or setting data back to baseline.
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.
