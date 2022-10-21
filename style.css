@@ -1,3 +1,10 @@
+:root {
+    --blue: rgba(1, 47, 250, 0.5);
+    --yellow: rgba(231, 214, 58, 0.5);
+    --orange: rgba(218, 140, 22, 0.5);
+    --red: rgba(236, 94, 94, 0.5);
+}
+
 html {
     max-width: 413px;
     max-height: 900px;
@@ -10,7 +17,8 @@ body {
     background-image: url(./assets/zombieImages/bp_fatty_01-removebg-preview.png);
     background-size: 95%;
     background-position-x: -150px;
-    background-position-y: center;
+    /* background-position-y: center; */
+    background-position-y: 150px;
     background-repeat: no-repeat;
 }
 
@@ -31,7 +39,6 @@ nav form button {
 }
 
 /* INPUT */
-
 .input-group {
     justify-content: center;
     margin-top: 1rem;
@@ -42,7 +49,6 @@ nav form button {
 }
 
 /* Cards */
-
 #display-cards {
     display: grid;
     grid-template: repeat(8, 12.5%) / repeat(4, 25%);

@@ -1,3 +1,6 @@
+// Imports
+import {setBackground} from "./scripts/setbackground.js";
+
 // Targeted Elements
 const body = document.querySelector('body');
 const mkDeck = document.getElementById('mkDeck');
@@ -96,6 +99,9 @@ const threatDisplay = (card) => {
     switch(threatLevel) {
         case 'red' :
             lastCard.push(`Last Card: ${card.red_no} ${card.red}`);
+            body.style = `
+            background-image: url(${setBackground(card.red)});
+            `
             return(
                 `<h3>${card.red}</h3>
                 <p>${card.red_no}</p>`
@@ -103,6 +109,9 @@ const threatDisplay = (card) => {
             break;
         case 'orange' :
             lastCard.push(`Last Card: ${card.orange_no} ${card.orange}`);
+            body.style = `
+            background-image: url(${setBackground(card.orange)});
+            `
             return(
                 `<h3>${card.orange}</h3>
                 <p>${card.orange_no}</p>`
@@ -110,6 +119,9 @@ const threatDisplay = (card) => {
             break;
         case 'yellow' :
             lastCard.push(`Last Card:${card.yellow_no} ${card.yellow}`);
+            body.style = `
+            background-image: url(${setBackground(card.yellow)});
+            `
             return(
                 `<h3 style="color: black;">${card.yellow}</h3>
                 <p>${card.yellow_no}</p>`
@@ -117,6 +129,9 @@ const threatDisplay = (card) => {
             break;
         default :
             lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
+            body.style = `
+            background-image: url(${setBackground(card.blue)});
+            `
             return(
                 `<h3>${card.blue}</h3>
                 <p>${card.blue_no}</p>`
@@ -147,8 +162,9 @@ const displayCard = () => {
     //     background-color: ${threatLevel};
     //     opacity: .8;
     // `;
+
     body.style = `
-        background-color: ${threatLevel};
+        background-color: var(--${threatLevel});
         opacity: .9;
     `
 
