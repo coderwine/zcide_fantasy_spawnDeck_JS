@@ -23,9 +23,7 @@ Click on the draw deck to display the first spawn.
 - Supply a count of cards within the deck
 - Image background of spawned card w/ associated threat.
   - ie: walker, runner, etc images.
-- Reset button to clear main deck
-  - set up and reading but not currently clearing or setting data back to baseline.
-- Need to set up for smaller screens
+- Need to set up for smaller screens.
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.

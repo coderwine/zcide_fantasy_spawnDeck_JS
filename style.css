@@ -1,3 +1,8 @@
+html {
+    max-width: 413px;
+    max-height: 900px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -70,7 +75,7 @@ h3 {
 
 #pull-deck {
     grid-area: 5 / 2 / span 3 / span 2;
-    background-image: url('./assets/spawn_back.JPG');
+    background-image: url('./assets/zombieImages/spawn_back.JPG');
     background-position: center;
     background-size: cover;
 }

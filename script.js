@@ -54,7 +54,6 @@ const addDeck = async array => {
     shuffled.forEach(card => {
         prepDeck.push(card);
     });
-
 }
 
 const shuffleDeck = (deck) => {
@@ -171,20 +170,9 @@ nrBtn.addEventListener('click', () => addDeck(nrDeck));
 mcBtn.addEventListener('click', () => addDeck(mcDeck));
 ffBtn.addEventListener('click', () => addDeck(ffDeck));
 pullDeck.addEventListener('click', displayCard);
+
 reset.addEventListener('click', () => {
     confirm('Are you sure?');
-    prepDeck = [];
-    gameDeck = [];
-    discarded = [];
-    threatLevel;
-    lastCard = []; 
-    toastList = [];
-
-    body.style = 'background-color: whitesmoke;';
-    while(spawnCard.firstElementChild) {
-        spawnCard.remove(spawnCard.firstElementChild);
-    };
-    foot.firstElementChild.innerText = '';
-    console.log(prepDeck);
+    location.reload();
 });
 
