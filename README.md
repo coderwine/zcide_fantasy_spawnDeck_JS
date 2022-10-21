@@ -13,19 +13,16 @@ Click on the draw deck to display the first spawn.
 - Friends and Foes
 - Murder of Crows
 
-
 # Consider
-- Display what decks have already been selected.
 - Include a check to see if a deck has already been included.
   - Allow for duplicate decks?
 
 # WIP
 - Supply a count of cards within the deck
-- Image background of spawned card w/ associated threat.
-  - ie: walker, runner, etc images.
 - Need to set up for smaller screens.
 - "Reshuffled deck only provides half the deck **bug**
-- Toast is hidden behind the footer
+- Need to adjust for smallest mobile as well.
+- Adding images for other decks
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.

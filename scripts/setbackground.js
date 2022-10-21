@@ -26,7 +26,6 @@ export const setBackground = (threat, type) => {
     switch(check) {
         // BP
         case "double spawn":
-            // need to add a new image
             image = `url('../assets/zombieImages/bp_doubleSpawn-removebg.png')`;
             posX = '-10px';
             posY = '180px';
@@ -71,7 +70,6 @@ export const setBackground = (threat, type) => {
             break;
         case "fatty activation":
             image = `url('../assets/zombieImages/bp_fattyActivate-removebg.png')`;
-            // posX = '130px';
             posY = '200px';
             break;
         // GH
@@ -85,7 +83,6 @@ export const setBackground = (threat, type) => {
     }
     console.log(image);
 
-    // background: var(--${threat}) ${image} no-repeat;
     let setBody = `
         background: var(--${threat});
         background-image: ${image};
@@ -94,6 +91,5 @@ export const setBackground = (threat, type) => {
         background-position-y: ${posY};
         background-size: ${size};
     `
-
     return setBody;
 }

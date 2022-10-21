@@ -3,6 +3,7 @@
     --yellow: rgba(231, 214, 58, 0.5);
     --orange: rgba(233, 106, 2, 0.769);
     --red: rgba(197, 23, 23, 0.8);
+    --toast-zindex: 2;
 }
 
 html {
@@ -82,21 +83,17 @@ h3 {
     background-size: cover;
 }
 
-/* Toast */
-#toast-alert {
-    z-index: 2;
-    /* top: 100px; */
-}
-
 /* FOOTER */
 footer {
     position: fixed;
     bottom: 0;
     background-color: black;
-    color: whitesmoke;
-    /* width: 100vw; */
     width: 100%;
     height: 4em;
     padding-top: .5rem;
     text-align: center;
+}
+
+footer h3 {
+    color: whitesmoke;
 }
