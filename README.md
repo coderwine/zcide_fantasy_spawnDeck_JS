@@ -24,6 +24,8 @@ Click on the draw deck to display the first spawn.
 - Image background of spawned card w/ associated threat.
   - ie: walker, runner, etc images.
 - Need to set up for smaller screens.
+- "Reshuffled deck only provides half the deck **bug**
+- Toast is hidden behind the footer
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.

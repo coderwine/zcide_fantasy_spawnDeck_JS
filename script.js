@@ -99,9 +99,7 @@ const threatDisplay = (card) => {
     switch(threatLevel) {
         case 'red' :
             lastCard.push(`Last Card: ${card.red_no} ${card.red}`);
-            body.style = `
-            background-image: url(${setBackground(card.red)});
-            `
+            body.style = setBackground(threatLevel, card.red);
             return(
                 `<h3>${card.red}</h3>
                 <p>${card.red_no}</p>`
@@ -109,9 +107,7 @@ const threatDisplay = (card) => {
             break;
         case 'orange' :
             lastCard.push(`Last Card: ${card.orange_no} ${card.orange}`);
-            body.style = `
-            background-image: url(${setBackground(card.orange)});
-            `
+            body.style = setBackground(threatLevel,card.orange);
             return(
                 `<h3>${card.orange}</h3>
                 <p>${card.orange_no}</p>`
@@ -119,9 +115,7 @@ const threatDisplay = (card) => {
             break;
         case 'yellow' :
             lastCard.push(`Last Card:${card.yellow_no} ${card.yellow}`);
-            body.style = `
-            background-image: url(${setBackground(card.yellow)});
-            `
+            body.style = setBackground(threatLevel, card.yellow);
             return(
                 `<h3 style="color: black;">${card.yellow}</h3>
                 <p>${card.yellow_no}</p>`
@@ -129,10 +123,7 @@ const threatDisplay = (card) => {
             break;
         default :
             lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
-            // body.style = `
-            // background-image: url(${setBackground(card.blue)});
-            // `
-            body.style = setBackground(card.blue);
+            body.style = setBackground(threatLevel, card.blue);
             return(
                 `<h3>${card.blue}</h3>
                 <p>${card.blue_no}</p>`
@@ -147,7 +138,7 @@ const displayCard = () => {
         discarded.forEach(c => {
             prepDeck.push(c);
             discarded.shift();
-        })
+        });
 
         readyDeck();
     }
@@ -164,15 +155,19 @@ const displayCard = () => {
     //     opacity: .8;
     // `;
 
-    body.style = `
-        background-color: var(--${threatLevel});
-        opacity: .9;
-    `
+    // body.style = `
+    //     background-color: var(--${threatLevel});
+    //     opacity: .9;
+    // `
 
     spawnCard.innerHTML = `
         <p id="card-id">id: ${card.id}</p>
         ${threatDisplay(card)}
     `;
+
+    // spawnCard.style = `
+    //     background-color: var(--${threatLevel});
+    // `;
 
     foot.firstElementChild.innerText = 
     lastCard.length < 2 ? null : lastCard[lastCard.length-2];

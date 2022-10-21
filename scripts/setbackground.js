@@ -1,4 +1,4 @@
-export const setBackground = (type) => {
+export const setBackground = (threat, type) => {
 
     let check = type.toLowerCase();
     console.log(check);
@@ -21,50 +21,58 @@ export const setBackground = (type) => {
     let image;
     let posX;
     let posY;
+    let size;
 
     switch(check) {
         // BP
         case "double spawn":
-            // return('../assets/zombieImages/bp_walker-removebg.png');
             // need to add a new image
+            image = `url('../assets/zombieImages/bp_doubleSpawn-removebg.png')`;
+            posX = '-10px';
+            posY = '180px';
             break;
         case "walker":
-            image = '../assets/zombieImages/bp_walker-removebg.png';
+            image = `url('../assets/zombieImages/bp_walker-removebg.png')`;
             posX = '-100px';
-            // return('../assets/zombieImages/bp_walker-removebg.png');
+            posY = '130px';
             break;
         case "runner":
-            image = '../assets/zombieImages/bp_runner-removebg.png';
+            image = `url('../assets/zombieImages/bp_runner-removebg.png')`;
             posX = '-60px';
-            // return('../assets/zombieImages/bp_runner-removebg.png');
+            posY = '170px';
             break;
         case "fatty":
-            image = '../assets/zombieImages/bp_fatty-removebg.png';
+            image = `url('../assets/zombieImages/bp_fatty-removebg.png')`;
             posX = '-150px';
-            // return('../assets/zombieImages/bp_fatty-removebg.png');
+            posY = '170px';
             break;
         case "necromancer":
-            image = '../assets/zombieImages/bp_necro-removebg.png';
+            image = `url('../assets/zombieImages/bp_necro-removebg.png')`;
             posX = '120px';
-            // return('../assets/zombieImages/bp_necro-removebg.png');
+            posY = '150px';
             break;
         case "abomination":
-            image = '../assets/zombieImages/bp_abom-removebg.png';
-            posX = '130px';
+            image = `url('../assets/zombieImages/bp_abom-removebg.png')`;
+            posX = '-80px';
             posY = '100px';
-            // return('../assets/zombieImages/bp_abom-removebg.png');
+            size = '140%';
             break;
         case "walker activation":
-            // return('../assets/zombieImages/bp_walker-removebg.png');
-            // need to add a new image
+            image = `url('../assets/zombieImages/bp_walkerActivate-removebg.png')`;
+            posX = '-60px';
+            posY = '100px';
+            size = '120%';
             break;
         case "runner activation":
-            // return('../assets/zombieImages/bp_runner-removebg.png');
-            // need to add a new image
+            image = `url('../assets/zombieImages/bp_runnerActivate-removebg.png')`;
+            posX = '-20px';
+            posY = '300px';
+            size = '120%';
             break;
         case "fatty activation":
-            // return('../assets/zombieImages/bp_fatty-removebg.png');
-            // need to add a new image
+            image = `url('../assets/zombieImages/bp_fattyActivate-removebg.png')`;
+            // posX = '130px';
+            posY = '200px';
             break;
         // GH
         // WB
@@ -72,13 +80,19 @@ export const setBackground = (type) => {
         // FF
         // MC
         default:
+            image = '';
             console.error('Nothing was passed');
     }
+    console.log(image);
 
+    // background: var(--${threat}) ${image} no-repeat;
     let setBody = `
-        background-image: url(${image});
+        background: var(--${threat});
+        background-image: ${image};
+        background-repeat: no-repeat;
         background-position-x: ${posX};
         background-position-y: ${posY};
+        background-size: ${size};
     `
 
     return setBody;
