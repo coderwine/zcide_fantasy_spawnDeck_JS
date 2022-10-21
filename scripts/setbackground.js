@@ -18,11 +18,53 @@ export const setBackground = (type) => {
         MC
             - Crows
     */
+    let image;
+    let posX;
+    let posY;
 
     switch(check) {
         // BP
+        case "double spawn":
+            // return('../assets/zombieImages/bp_walker-removebg.png');
+            // need to add a new image
+            break;
         case "walker":
-            return('../assets/zombieImages/bp_walker-removebg.png');
+            image = '../assets/zombieImages/bp_walker-removebg.png';
+            posX = '-100px';
+            // return('../assets/zombieImages/bp_walker-removebg.png');
+            break;
+        case "runner":
+            image = '../assets/zombieImages/bp_runner-removebg.png';
+            posX = '-60px';
+            // return('../assets/zombieImages/bp_runner-removebg.png');
+            break;
+        case "fatty":
+            image = '../assets/zombieImages/bp_fatty-removebg.png';
+            posX = '-150px';
+            // return('../assets/zombieImages/bp_fatty-removebg.png');
+            break;
+        case "necromancer":
+            image = '../assets/zombieImages/bp_necro-removebg.png';
+            posX = '120px';
+            // return('../assets/zombieImages/bp_necro-removebg.png');
+            break;
+        case "abomination":
+            image = '../assets/zombieImages/bp_abom-removebg.png';
+            posX = '130px';
+            posY = '100px';
+            // return('../assets/zombieImages/bp_abom-removebg.png');
+            break;
+        case "walker activation":
+            // return('../assets/zombieImages/bp_walker-removebg.png');
+            // need to add a new image
+            break;
+        case "runner activation":
+            // return('../assets/zombieImages/bp_runner-removebg.png');
+            // need to add a new image
+            break;
+        case "fatty activation":
+            // return('../assets/zombieImages/bp_fatty-removebg.png');
+            // need to add a new image
             break;
         // GH
         // WB
@@ -32,4 +74,12 @@ export const setBackground = (type) => {
         default:
             console.error('Nothing was passed');
     }
+
+    let setBody = `
+        background-image: url(${image});
+        background-position-x: ${posX};
+        background-position-y: ${posY};
+    `
+
+    return setBody;
 }

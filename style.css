@@ -16,9 +16,10 @@ body {
     max-width: 413px;
     background-image: url(./assets/zombieImages/bp_fatty_01-removebg-preview.png);
     background-size: 95%;
-    background-position-x: -150px;
+    /* background-position-x: -150px; */
     /* background-position-y: center; */
-    background-position-y: 150px;
+    /* background-position-y: 150px; */
+    background-position-y: 170px;
     background-repeat: no-repeat;
 }
 

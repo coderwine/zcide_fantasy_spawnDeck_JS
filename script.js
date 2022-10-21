@@ -129,9 +129,10 @@ const threatDisplay = (card) => {
             break;
         default :
             lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
-            body.style = `
-            background-image: url(${setBackground(card.blue)});
-            `
+            // body.style = `
+            // background-image: url(${setBackground(card.blue)});
+            // `
+            body.style = setBackground(card.blue);
             return(
                 `<h3>${card.blue}</h3>
                 <p>${card.blue_no}</p>`
