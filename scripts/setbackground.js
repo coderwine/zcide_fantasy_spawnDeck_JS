@@ -149,7 +149,7 @@ export const setBackground = (threat, type) => {
             size = '140%';
             break;
         // MC
-        case "murder of crows":
+        case "murder of crow":
             image = `url('../assets/mc_crows-removebg.png')`;
             posX = '-120px';
             posY = '150px';

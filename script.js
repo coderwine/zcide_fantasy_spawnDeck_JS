@@ -1,6 +1,7 @@
 // Imports
 import {setBackground} from "./scripts/setbackground.js";
 import {grammarAdjust} from "./scripts/grammarAdjust.js";
+import {lastCardDisplay} from './scripts/footerText.js';
 
 // Targeted Elements
 const body = document.querySelector('body');
@@ -102,7 +103,7 @@ const setThreat = () => {
 const threatDisplay = (card) => {
     switch(threatLevel) {
         case 'red' :
-            lastCard.push(`Last Card: ${card.red_no} ${card.red}`);
+            lastCard.push(lastCardDisplay(card.red_no, card.red));
             body.style = setBackground(threatLevel, card.red);
             
             if(card.red.includes('Double') || card.red.includes('Activation')) {
@@ -114,7 +115,7 @@ const threatDisplay = (card) => {
             break;
 
         case 'orange' :
-            lastCard.push(`Last Card: ${card.orange_no} ${card.orange}`);
+            lastCard.push(lastCardDisplay(card.orange_no, card.orange));
             body.style = setBackground(threatLevel,card.orange);
             
             if(card.orange.includes('Double') || card.orange.includes('Activation')) {
@@ -126,7 +127,7 @@ const threatDisplay = (card) => {
             break;
 
         case 'yellow' :
-            lastCard.push(`Last Card:${card.yellow_no} ${card.yellow}`);
+            lastCard.push(lastCardDisplay(card.yellow_no, card.yellow));
             body.style = setBackground(threatLevel, card.yellow);
             
             if(card.yellow.includes('Double') || card.yellow.includes('Activation')) {
@@ -138,7 +139,7 @@ const threatDisplay = (card) => {
             break;
 
         default :
-            lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
+            lastCard.push(lastCardDisplay(card.blue_no, card.blue));
             body.style = setBackground(threatLevel, card.blue);
 
             if(card.blue.includes('Nothing') || card.blue.includes('Double') || card.blue.includes('Activation') || card.blue.includes('Enter')) {
@@ -154,27 +155,16 @@ const threatDisplay = (card) => {
 const displayCard = () => {
     setThreat();
 
-    // Should reset the deck
+    // Resets the current deck.
     if(gameDeck.length === 0) {
         console.log(discarded.length);
         
-        //TODO: Loop Not Running
-        // for(let i = 0; discarded.length === 0; i++){
-        //     console.log('length ',discarded.length)
-        //     console.log(discarded[0]);
-        //     prepDeck.push(discarded[0]);
-        //     discarded.shift();
-        // };
-
         discarded.forEach(c => {
             console.log(c);
             prepDeck.push(c);
-            // discarded.shift();
             discarded.slice(1);
         });
         
-        // console.log("Prep: ", prepDeck);
-        // console.log('End Discarded: ', discarded.length)
         discarded = [];
         readyDeck();
     }
