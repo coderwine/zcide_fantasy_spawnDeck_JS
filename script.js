@@ -73,17 +73,22 @@ const shuffleDeck = (deck) => {
 }
 
 const readyDeck = () => {
-    let shuffledGameDeck = shuffleDeck(prepDeck);
-    shuffledGameDeck.forEach(c => {
-        gameDeck.push(c);
-    })
+    if(prepDeck.length === 0) {
+        alert('Please include a deck.');
+    } else {
+        let shuffledGameDeck = shuffleDeck(prepDeck);
+        shuffledGameDeck.forEach(c => {
+            gameDeck.push(c);
+        })
+        
+        toastBody.innerText = `${toastList.toString()} has been added to the deck.
+        `;
+    
+        const toast = new bootstrap.Toast(toastAlert);
+    
+        toast.show();
+    }
 
-    toastBody.innerText = `${toastList.toString()} has been added to the deck.
-    `;
-
-    const toast = new bootstrap.Toast(toastAlert);
-
-    toast.show();
 }
 
 const setThreat = () => {
