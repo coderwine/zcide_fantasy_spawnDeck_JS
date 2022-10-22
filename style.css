@@ -15,7 +15,6 @@ body {
     margin: 0;
     padding: 0;
     max-width: 413px;
-    /* background: url(./assets/zombieImages/bp_abom-removebg.png), url(./assets/zombieImages/bp_fatty-removebg.png); */
 }
 
 /* Navbar */
@@ -90,6 +89,7 @@ footer {
     bottom: 0;
     background-color: black;
     width: 100%;
+    max-width: 413px;
     height: 4em;
     padding-top: .5rem;
     text-align: center;
