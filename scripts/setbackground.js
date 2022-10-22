@@ -1,14 +1,13 @@
 export const setBackground = (threat, type) => {
 
     let check = type.toLowerCase();
-    console.log(check);
     /*
         Types of Spawns:
         All - Nothing
         BP
             - Walkers, Walker Activation, Runners, Runner Activation, Fatties, Fatty Activation, Double-Spawn, Necro, Abom.
         GH
-            - Orc Walker, Orc Runners, Orc Fatties (missing), Orc Necro, Orc Abom (Missing)
+            - Orc Walker, Orc Runners, Orc Fatties (missing), Orc Necro (missing), Orc Abom (missing)
         WB
             - Wolves - Wolf Abom
         NR
@@ -89,19 +88,19 @@ export const setBackground = (threat, type) => {
             posY = '190px';
             break;
         case "orc fatty":
-            // need image
+            //NOTE: need image
             image = `url('')`;
             posX = '-150px';
             posY = '170px';
             break;
         case "orc necromancer":
-            // need image
+            //NOTE: need image
             image = `url('../assets/')`;
             posX = '120px';
             posY = '150px';
             break;
         case "orc abomination":
-            // need image
+            //NOTE: need image
             image = `url('../assets/')`;
             posX = '-80px';
             posY = '100px';
@@ -157,9 +156,8 @@ export const setBackground = (threat, type) => {
             break;
         default:
             image = '';
-            console.error('Nothing was passed');
+            // console.error('Nothing was passed');
     }
-    console.log(image);
 
     let setBody = `
         background: var(--${threat});

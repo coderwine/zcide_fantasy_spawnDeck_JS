@@ -51,10 +51,6 @@ nav form button {
     padding: 2rem 0;
 }
 
-h3 {
-    font-size: large;
-}
-
 .card {
     margin: 0 .5rem;
     max-height: 238px;
@@ -68,11 +64,28 @@ h3 {
 #threat-card {
     grid-area: 1 / 2 / span 3 / span 2;
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template: repeat(5, 20%) / repeat(4, 25%);
+    /* display: flex; */
+    /* flex-direction: column;
+    justify-content: space-evenly; */
     background-color: rgba(255,255,255,.7);
     font-size: xx-large;
+}
+
+#card-id {
+    font-size: 10pt;
+    grid-column: 1 / span 2;
+}
+
+#threat-card p:nth-child(2) {
+    grid-area: 2 / 2 / span 2 / span 2;
+}
+
+h3 {
+    align-self: center;
+    font-size: large;
+    grid-area: 4 / 1 / span 2 / span 4;
 }
 
 

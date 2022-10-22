@@ -1,5 +1,6 @@
 // Imports
 import {setBackground} from "./scripts/setbackground.js";
+import {grammarAdjust} from "./scripts/grammarAdjust.js";
 
 // Targeted Elements
 const body = document.querySelector('body');
@@ -105,34 +106,44 @@ const threatDisplay = (card) => {
         case 'red' :
             lastCard.push(`Last Card: ${card.red_no} ${card.red}`);
             body.style = setBackground(threatLevel, card.red);
-            return(
-                `<h3>${card.red}</h3>
-                <p>${card.red_no}</p>`
-            );
+            if(card.red.includes('Double') || card.red.includes('Activation')) {
+                return(`<h3>${card.red}</h3>`)
+            } else {
+                let grammarSet = grammarAdjust(card.red, card.red_no);
+                return(grammarSet);
+            };  
+                
             break;
         case 'orange' :
             lastCard.push(`Last Card: ${card.orange_no} ${card.orange}`);
             body.style = setBackground(threatLevel,card.orange);
-            return(
-                `<h3>${card.orange}</h3>
-                <p>${card.orange_no}</p>`
-            );
+            if(card.orange.includes('Double') || card.orange.includes('Activation')) {
+                return(`<h3>${card.orange}</h3>`)
+            } else {
+                let grammarSet = grammarAdjust(card.orange, card.orange_no);
+                return(grammarSet);
+            };                
             break;
         case 'yellow' :
             lastCard.push(`Last Card:${card.yellow_no} ${card.yellow}`);
             body.style = setBackground(threatLevel, card.yellow);
-            return(
-                `<h3 style="color: black;">${card.yellow}</h3>
-                <p>${card.yellow_no}</p>`
-            );
+            if(card.yellow.includes('Double') || card.yellow.includes('Activation')) {
+                return(`<h3>${card.yellow}</h3>`)
+            } else {
+                let grammarSet = grammarAdjust(card.yellow, card.yellow_no);
+                return(grammarSet);
+            }
             break;
         default :
             lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
             body.style = setBackground(threatLevel, card.blue);
-            return(
-                `<h3>${card.blue}</h3>
-                <p>${card.blue_no}</p>`
-            )
+            if(card.blue.includes('Nothing') || card.blue.includes('Double') || card.blue.includes('Activation') || card.blue.includes('Enter')) {
+                return(`<h3>${card.blue}</h3>`)
+            } else {
+                let grammarSet = grammarAdjust(card.blue, card.blue_no);
+                return(grammarSet);
+            }
+            
     }
 }
 
@@ -148,14 +159,14 @@ const displayCard = () => {
         readyDeck();
     }
 
-    console.log('Game Deck', gameDeck)
+    // console.log('Game Deck', gameDeck);
 
     let card = gameDeck[0];
     discarded.push(card);
     gameDeck.shift();
 
     spawnCard.innerHTML = `
-        <p id="card-id">id: ${card.id}</p>
+        <p id="card-id">card: ${card.id}</p>
         ${threatDisplay(card)}
     `;
 

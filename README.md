@@ -21,7 +21,7 @@ Click on the draw deck to display the first spawn.
 
 # WIP
 - Supply a count of cards within the deck
-- "Reshuffled deck only provides half the deck **bug**
+- "Reshuffled deck only provides half the deck **bug**.
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.
