@@ -73,10 +73,88 @@ export const setBackground = (threat, type) => {
             posY = '200px';
             break;
         // GH
+        case "enter the horde":
+            image = `url('../assets/zombieImages/gh_enterthehorde-removebg.png')`;
+            posX = '-10px';
+            posY = '150px';
+            break;
+        case "orc walker":
+            image = `url('../assets/zombieImages/gh_walker-removebg.png')`;
+            posX = '90px';
+            posY = '180px';
+            break;
+        case "orc runner":
+            image = `url('../assets/zombieImages/gh_runner-removebg.png')`;
+            posX = '-90px';
+            posY = '190px';
+            break;
+        case "orc fatty":
+            // need image
+            image = `url('')`;
+            posX = '-150px';
+            posY = '170px';
+            break;
+        case "orc necromancer":
+            // need image
+            image = `url('../assets/zombieImages/')`;
+            posX = '120px';
+            posY = '150px';
+            break;
+        case "orc abomination":
+            // need image
+            image = `url('../assets/zombieImages/')`;
+            posX = '-80px';
+            posY = '100px';
+            size = '140%';
+            break;
         // WB
+        case "wolvz":
+            image = `url('../assets/zombieImages/wb_wolf-removebg.png')`;
+            posX = '-65px';
+            posY = '220px';
+            break;
+        case "wolfbomination":
+            image = `url('../assets/zombieImages/wb_abom-removebg.png')`;
+            posX = '40px';
+            posY = '180px';
+            size = '140%';
+            break;
         // NR
+        case "swarm of ratz":
+            image = `url('../assets/zombieImages/nr_rats-removebg.png')`;
+            posX = '-50px';
+            posY = '150px';
+            break;
+        case "spectral walker":
+            image = `url('../assets/zombieImages/nr_specter-removebg.png')`;
+            posX = '-80px';
+            posY = '100px';
+            size = '140%';
+            break;
+        case "necromantic dragon":
+            image = `url('../assets/zombieImages/nr_dragon-removebg.png')`;
+            posX = '-80px';
+            posY = '100px';
+            size = '140%';
+            break;
         // FF
+        case "tainted walker":
+            image = `url('../assets/zombieImages/ff_taintedWalker-removebg.png')`;
+            posX = '-10px';
+            posY = '150px';
+            break;
+        case "tainted abomination":
+            image = `url('../assets/zombieImages/ff_abom-removebg.png')`;
+            posX = '-80px';
+            posY = '100px';
+            size = '140%';
+            break;
         // MC
+        case "murder of crows":
+            image = `url('../assets/zombieImages/mc_crows-removebg.png')`;
+            posX = '-120px';
+            posY = '150px';
+            break;
         default:
             image = '';
             console.error('Nothing was passed');

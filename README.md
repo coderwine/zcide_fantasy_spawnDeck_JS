@@ -8,7 +8,9 @@ Click on the draw deck to display the first spawn.
 # Current Decks
 - Black Plague
 - Wulfsburg
-- Green Hord
+- Green Horde
+  - Need images for:
+    - Orc Fatty, Orc Necromancer, Orc Abomination
 - No Rest for the Wicked
 - Friends and Foes
 - Murder of Crows
@@ -19,10 +21,7 @@ Click on the draw deck to display the first spawn.
 
 # WIP
 - Supply a count of cards within the deck
-- Need to set up for smaller screens.
 - "Reshuffled deck only provides half the deck **bug**
-- Need to adjust for smallest mobile as well.
-- Adding images for other decks
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.
@@ -34,9 +33,6 @@ Click on the draw deck to display the first spawn.
 - React App should detail current sessions to indicate spawn locations and what is recommended for play.
 
 # Images needed:
-- BP Double-Spawn
-  - May use the 2 walker images provided.
+- GH Fatty
 - GH Necro
 - GH Abom
-- GH Enter the Horde
-- FF Enter the Horde

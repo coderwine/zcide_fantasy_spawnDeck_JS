@@ -1,6 +1,6 @@
 :root {
     --blue: rgba(1, 47, 250, 0.649);
-    --yellow: rgba(231, 214, 58, 0.5);
+    --yellow: rgba(240, 217, 12, 0.684);
     --orange: rgba(233, 106, 2, 0.769);
     --red: rgba(197, 23, 23, 0.8);
     --toast-zindex: 2;
@@ -49,7 +49,7 @@ nav form button {
     display: grid;
     grid-template: repeat(8, 12.5%) / repeat(4, 25%);
     height: 70vh;
-    padding: .5rem 0;
+    padding: 2rem 0;
 }
 
 h3 {
@@ -57,12 +57,13 @@ h3 {
 }
 
 .card {
-    margin: 1 .5rem;
+    margin: 0 .5rem;
     max-height: 238px;
     justify-self: center;
     width: 156px;
-    padding: .5rem;
+    /* padding: .5rem; */
     color: black;
+    box-shadow: -4px 4px 2px black;
 }
 
 #threat-card {
