@@ -84,9 +84,7 @@ const readyDeck = () => {
 
         toastBody.innerText = `${toastList.toString()} has been added to the deck.
         `;
-    
         const toast = new bootstrap.Toast(toastAlert);
-    
         toast.show();
     }
 
@@ -106,17 +104,19 @@ const threatDisplay = (card) => {
         case 'red' :
             lastCard.push(`Last Card: ${card.red_no} ${card.red}`);
             body.style = setBackground(threatLevel, card.red);
+            
             if(card.red.includes('Double') || card.red.includes('Activation')) {
                 return(`<h3>${card.red}</h3>`)
             } else {
                 let grammarSet = grammarAdjust(card.red, card.red_no);
                 return(grammarSet);
             };  
-                
             break;
+
         case 'orange' :
             lastCard.push(`Last Card: ${card.orange_no} ${card.orange}`);
             body.style = setBackground(threatLevel,card.orange);
+            
             if(card.orange.includes('Double') || card.orange.includes('Activation')) {
                 return(`<h3>${card.orange}</h3>`)
             } else {
@@ -124,9 +124,11 @@ const threatDisplay = (card) => {
                 return(grammarSet);
             };                
             break;
+
         case 'yellow' :
             lastCard.push(`Last Card:${card.yellow_no} ${card.yellow}`);
             body.style = setBackground(threatLevel, card.yellow);
+            
             if(card.yellow.includes('Double') || card.yellow.includes('Activation')) {
                 return(`<h3>${card.yellow}</h3>`)
             } else {
@@ -134,9 +136,11 @@ const threatDisplay = (card) => {
                 return(grammarSet);
             }
             break;
+
         default :
             lastCard.push(`Last Card: ${card.blue_no} ${card.blue}`);
             body.style = setBackground(threatLevel, card.blue);
+
             if(card.blue.includes('Nothing') || card.blue.includes('Double') || card.blue.includes('Activation') || card.blue.includes('Enter')) {
                 return(`<h3>${card.blue}</h3>`)
             } else {
@@ -150,16 +154,33 @@ const threatDisplay = (card) => {
 const displayCard = () => {
     setThreat();
 
+    // Should reset the deck
     if(gameDeck.length === 0) {
-        discarded.forEach(c => {
-            prepDeck.push(c);
-            discarded.shift();
-        });
+        console.log(discarded.length);
+        
+        //TODO: Loop Not Running
+        // for(let i = 0; discarded.length === 0; i++){
+        //     console.log('length ',discarded.length)
+        //     console.log(discarded[0]);
+        //     prepDeck.push(discarded[0]);
+        //     discarded.shift();
+        // };
 
+        discarded.forEach(c => {
+            console.log(c);
+            prepDeck.push(c);
+            // discarded.shift();
+            discarded.slice(1);
+        });
+        
+        // console.log("Prep: ", prepDeck);
+        // console.log('End Discarded: ', discarded.length)
+        discarded = [];
         readyDeck();
     }
 
-    // console.log('Game Deck', gameDeck);
+    console.log('Game Deck', gameDeck);
+    console.log('Discarded', discarded);
 
     let card = gameDeck[0];
     discarded.push(card);

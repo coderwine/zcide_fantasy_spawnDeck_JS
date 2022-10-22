@@ -20,8 +20,10 @@ Click on the draw deck to display the first spawn.
   - Allow for duplicate decks?
 
 # WIP
-- Supply a count of cards within the deck
-- "Reshuffled deck only provides half the deck **bug**.
+- Supply a count of cards within the deck.
+- Crow images aren't showing up again
+- Will need to adjust the "last card" display in footer to display the same as the spawn card
+  - ie: proper grammar / no numbers for "nothing" or "enter the horde"
 
 ## v2 Ideas
 - Provide an option to remove or add duplicate cards.
