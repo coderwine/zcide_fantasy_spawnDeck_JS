@@ -80,7 +80,7 @@ const readyDeck = () => {
         shuffledGameDeck.forEach(c => {
             gameDeck.push(c);
         })
-        
+
         toastBody.innerText = `${toastList.toString()} has been added to the deck.
         `;
     
@@ -154,25 +154,10 @@ const displayCard = () => {
     discarded.push(card);
     gameDeck.shift();
 
-    // Will need to add a card image to match the threat
-    // spawnCard.style = `
-    //     background-color: ${threatLevel};
-    //     opacity: .8;
-    // `;
-
-    // body.style = `
-    //     background-color: var(--${threatLevel});
-    //     opacity: .9;
-    // `
-
     spawnCard.innerHTML = `
         <p id="card-id">id: ${card.id}</p>
         ${threatDisplay(card)}
     `;
-
-    // spawnCard.style = `
-    //     background-color: var(--${threatLevel});
-    // `;
 
     foot.firstElementChild.innerText = 
     lastCard.length < 2 ? null : lastCard[lastCard.length-2];

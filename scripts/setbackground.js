@@ -31,7 +31,7 @@ export const setBackground = (threat, type) => {
             posY = '180px';
             break;
         case "walker":
-            image = `url('../assets/bp_walker-removebg.png')`;
+            image = `url('../assets/bp_walker-removebg.PNG')`;
             posX = '-100px';
             posY = '130px';
             break;
