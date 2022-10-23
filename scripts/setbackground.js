@@ -7,7 +7,7 @@ export const setBackground = (threat, type) => {
         BP
             - Walkers, Walker Activation, Runners, Runner Activation, Fatties, Fatty Activation, Double-Spawn, Necro, Abom.
         GH
-            - Orc Walker, Orc Runners, Orc Fatties (missing), Orc Necro (missing), Orc Abom (missing)
+            - Orc Walker, Orc Runners, Orc Fatties, Orc Necro, Orc Abom
         WB
             - Wolves - Wolf Abom
         NR
@@ -74,7 +74,6 @@ export const setBackground = (threat, type) => {
         // GH
         case "enter the horde":
             image = `url('./assets/gh_enterthehorde-removebg.png')`;
-            posX = '-10px';
             posY = '150px';
             break;
         case "orc walker":
@@ -88,23 +87,34 @@ export const setBackground = (threat, type) => {
             posY = '190px';
             break;
         case "orc fatty":
-            //NOTE: need image
-            image = `url('')`;
-            posX = '-150px';
+            image = `url('./assets/gh_fatty-removebg.png')`;
+            posX = '-60px';
             posY = '170px';
             break;
         case "orc necromancer":
-            //NOTE: need image
-            image = `url('./assets/')`;
-            posX = '120px';
+            image = `url('./assets/gh_necro-removebg.png')`;
+            posX = '-100px';
             posY = '150px';
             break;
         case "orc abomination":
-            //NOTE: need image
-            image = `url('./assets/')`;
-            posX = '-80px';
-            posY = '100px';
+            image = `url('./assets/gh-abom-removebg.png')`;
+            posX = '-50px';
+            posY = '150px';
             size = '140%';
+            break;
+            case "orc walker activation":
+            image = `url('./assets/gh_walkerActivate-removebg.png')`;
+            posX = '100';
+            posY = '50px';
+            break;
+        case "orc runner activation":
+            image = `url('./assets/gh_runnerActivate-removebg.png')`;
+            posX = '-60px';
+            posY = '150px';
+            break;
+        case "orc fatty activation":
+            image = `url('./assets/gh_fattyActivate-removebg.png')`;
+            posY = '200px';
             break;
         // WB
         case "wolvz":

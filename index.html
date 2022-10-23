@@ -61,8 +61,47 @@
         </div>
     </div>
 
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Spawn Deck Pull How-To:</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>
+                First off, thanks for checking this out!
+                Secondly, please understand that this is mostly a prototype of what I'm developing. This was meant to get me thinking about how I want to develop a more robust version of this spawn deck. 
+            </p>
+            <p>
+                Real quick, how to use this: 
+                Simply click the buttons for the decks you wish to use for your play through. After selecting them, click the "Make Deck" button and it will shuffle all the cards together. 
+            </p>
+        <p>
+            Lastly, it defaults to the BLUE threat level, but you can select whichever throughout the game. Just click the face-down cards and your spawn will appear!
+        </p>
+        <p>
+            If you would like to clear out your created deck, simply click the "Reset Decks" button. You will need to re-select the desired decks afterwards.
+        </p>
+        <hr>
+        <p>
+            One last thing... it is known that this isn't 100% "clean". It is intended to be used primarily on phones. Any questions, please feel free to DM via BGG. I'm 42Cogs :)
+        </p>
+        </div>
+        <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+    </div>
+    </div>
+</div>
+
 <footer>
-    <h3></h3>    
+    <h3></h3>
+    <!-- Button trigger modal -->
+    <button type="button" id="modal-btn" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        How-To:
+    </button>    
 </footer>
 
 

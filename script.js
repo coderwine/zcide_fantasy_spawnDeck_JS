@@ -19,6 +19,7 @@ const threatInput = document.getElementsByName('threat-level');
 const foot = document.querySelector('footer');
 const toastAlert = document.getElementById('toast-alert');
 const toastBody = document.getElementById('toast-body');
+const modalBtn = document.getElementById('modal-btn');
 
 // Card Links
 const bpCards = './sampleObjs/bp.json';
@@ -87,6 +88,10 @@ const readyDeck = () => {
         `;
         const toast = new bootstrap.Toast(toastAlert);
         toast.show();
+
+        if(gameDeck.length > 0) {
+            modalBtn.style = 'display: none';
+        }
     }
 
 }
