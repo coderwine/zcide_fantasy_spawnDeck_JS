@@ -1,6 +1,4 @@
 export const lastCardDisplay = (no, threat) => {
-    // let card = threat;
-    // let value = no;
     let isIncluded = ['Fatty', 'Orc Fatty', 'Wolvz', 'Swarm of Ratz', 'Murder of Crow'];
     let specialCase = ['Nothing', 'Double Spawn', 'Enter the Horde', 'Necromancer', 'Abomination', 'Walker Activation', 'Runner Activation', 'Fatty Activation','Orc Walker Activation', 'Orc Runner Activation', 'Orc Fatty Activation', 'Wolfbomination', 'Orc Abomination', 'Tainted Abomination', 'Necromantic Dragon']
 

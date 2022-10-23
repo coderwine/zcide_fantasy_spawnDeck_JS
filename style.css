@@ -3,7 +3,6 @@
     --yellow: rgba(240, 217, 12, 0.684);
     --orange: rgba(233, 106, 2, 0.769);
     --red: rgba(197, 23, 23, 0.8);
-    --toast-zindex: 2;
 }
 
 html {
@@ -56,7 +55,6 @@ nav form button {
     max-height: 238px;
     justify-self: center;
     width: 156px;
-    /* padding: .5rem; */
     color: black;
     box-shadow: -4px 4px 2px black;
 }
@@ -66,9 +64,6 @@ nav form button {
     text-align: center;
     display: grid;
     grid-template: repeat(5, 20%) / repeat(4, 25%);
-    /* display: flex; */
-    /* flex-direction: column;
-    justify-content: space-evenly; */
     background-color: rgba(255,255,255,.7);
     font-size: xx-large;
 }

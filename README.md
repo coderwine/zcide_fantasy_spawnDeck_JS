@@ -20,7 +20,6 @@ Click on the draw deck to display the first spawn.
   - Allow for duplicate decks?
 
 # WIP
-- Images are not displaying through github deployment.
 
 ## v2 Ideas
 - Supply a count of cards within the deck.
@@ -31,8 +30,3 @@ Click on the draw deck to display the first spawn.
 - Note which position the spawns are coming in at
   - ie: which spawn location indicated by a number.
 - React App should detail current sessions to indicate spawn locations and what is recommended for play.
-
-# Images needed:
-- GH Fatty
-- GH Necro
-- GH Abom
