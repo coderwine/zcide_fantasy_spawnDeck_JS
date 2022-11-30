@@ -15,6 +15,7 @@ const mcBtn = document.getElementById('mcBtn');
 const ffBtn = document.getElementById('ffBtn');
 const pullDeck = document.getElementById('pull-deck');
 const spawnCard = document.getElementById('threat-card');
+const inputGroup = document.querySelector('.input-group');
 const threatInput = document.getElementsByName('threat-level');
 const foot = document.querySelector('footer');
 const toastAlert = document.getElementById('toast-alert');
@@ -50,6 +51,7 @@ let discarded = [];
 let threatLevel;
 let lastCard = []; 
 let toastList = [];
+let doubleSpawnCheck; //TODO Update to provide a card count for double spawn cards when drawn.
 
 // Functions
 const addDeck = async array => {
@@ -92,6 +94,13 @@ const readyDeck = () => {
         if(gameDeck.length > 0) {
             modalBtn.style = 'display: none';
         }
+
+        console.log(inputGroup)
+        setTimeout(() => {
+            inputGroup.style = `
+                display: flex;
+            `
+        }, 3500);
     }
 
 }

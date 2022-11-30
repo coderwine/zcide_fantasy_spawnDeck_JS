@@ -7,13 +7,15 @@
 
 html {
     max-width: 413px;
-    max-height: 900px;
+    /* max-height: 900px; */
 }
 
 body {
     margin: 0;
     padding: 0;
-    max-width: 413px;
+    /* max-width: 413px; */
+    /* width: 100%; */
+    height: 100vh;
 }
 
 /* Navbar */
@@ -29,11 +31,17 @@ nav {
 
 nav form button {
     margin: .3rem .5em;
-    width: 100;
+    /* width: 100; */
+}
+
+/* TOAST */
+.toast {
+    position: fixed;
 }
 
 /* INPUT */
 .input-group {
+    display: none;
     justify-content: center;
     margin-top: 1rem;
 }
@@ -43,11 +51,16 @@ nav form button {
 }
 
 /* Cards */
+/* 
+TODO
+    - Need to make the card static so that it doesn't "bounce"
+*/
 #display-cards {
     display: grid;
     grid-template: repeat(8, 12.5%) / repeat(4, 25%);
-    height: 70vh;
-    padding: 2rem 0;
+    height: 65vh;
+    /* height: 425px; */
+    /* padding: 2rem 0; */
 }
 
 .card {
