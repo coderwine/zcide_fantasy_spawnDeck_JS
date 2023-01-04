@@ -30,3 +30,9 @@ Click on the draw deck to display the first spawn.
 - Note which position the spawns are coming in at
   - ie: which spawn location indicated by a number.
 - React App should detail current sessions to indicate spawn locations and what is recommended for play.
+- Players able to select their draw deck
+  - https://boardgamegeek.com/thread/3000328/article/41444658#41444658
+    - Sample pull for building a deck
+  - No. of aboms
+  - No. of Necros (fantasy)
+  - No. of adds / xpacks
